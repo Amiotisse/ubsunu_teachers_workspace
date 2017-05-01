@@ -1,6 +1,6 @@
 package com.himnabil.alphau.client.model.builder;
 
-import com.amiotisse.ubsunu.profile.model.UserType;
+import com.amiotisse.ubsunu.teacher.workspace.model.UserType;
 import com.himnabil.alphau.client.model.AuthRequest;
 
 public class AuthRequestBuilder {
